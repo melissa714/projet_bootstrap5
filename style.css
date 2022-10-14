@@ -1,0 +1,44 @@
+div.container{
+    background-color: lightblue;
+    text-align: center;
+    font-size: 24px;
+
+
+}
+
+
+div.container-fluid{
+    background-color: lightcoral;
+    text-align: center;
+    font-size: 24px;
+}
+
+h1{
+    text-align: left;
+    
+}
+
+
+
+div.container-sm{
+    background-color: rgb(219, 56, 195);
+    text-align: center;
+    font-size: 24px;
+}
+
+
+
+
+div.container-xl{
+    background-color: rgb(219, 56, 195);
+    text-align: center;
+    font-size: 24px;
+}
+
+
+
+div.container-xl{
+    background-color: rgb(95, 156, 72);
+    text-align: center;
+    font-size: 24px;
+}
